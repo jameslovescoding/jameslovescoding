@@ -1,4 +1,4 @@
-### Welcome to my GitHub
+# 🎉 Welcome to my GitHub
 
 I'm learning Full Stack web development at App Academy and will graduate in September. I'm also ready for a job offer.
 
